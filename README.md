@@ -1,4 +1,4 @@
-# 👋 Hi, I'm [Your Name] 
+# 👋 Hi, I'm Aryan Dive
 
 ### Full Stack Developer | SaaS Builder | Electronics & Computer Engineering Student
 
@@ -8,7 +8,7 @@ I’m a developer who bridges the gap between core engineering principles and so
 
 ### 🚀 What I'm working on (2026 Edition)
 
-* **WorkStation:** An enterprise-level productivity SaaS focused on seamless task and time management (currently in the patching/debugging phase).
+* **SyncFlowState:** An enterprise-level productivity SaaS focused on seamless task and time management.
 * **YouTube Visualizer v2:** Transforming video data into actionable insights.
 * **Stealth Project:** Architecting a high-impact, unannounced product.
 * **n8n Automations:** Designing autonomous workflows to bridge the gap between user data and real-time actions.
@@ -55,7 +55,7 @@ I believe in building systems that last. When I’m not in the IDE, I explore:
 
 ### 📫 Connect with me
 
-* **LinkedIn:** [Your LinkedIn Profile Link]
-* **Portfolio:** [Link to your WorkStation or personal site]
+* **LinkedIn:** https://www.linkedin.com/in/aryan-dive/
+* **Portfolio:** https://www.syncflowstate.com
 
 *“Bridging bits and atoms to build the future.”*
