@@ -39,9 +39,8 @@ I’m a developer who bridges the gap between core engineering principles and so
 ---
 
 ### 📊 GitHub Stats & Activity
-
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=transparent)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=transparent)
+![Aryan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=aryandive&show_icons=true&theme=transparent)
+![Aryan's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=aryandive&layout=compact&theme=transparent)
 
 ---
 
