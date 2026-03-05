@@ -32,9 +32,9 @@ I’m a developer who bridges the gap between core engineering principles and so
 
 ### 💡 Notable Projects
 
-* **🌾 Agri-AI:** A hackathon-winning project for crop recommendation and disease detection using AI.
+* **🌾 Agri-AI:** A hackathon-finalize project for crop recommendation and disease detection using AI.
 * **💧 Aqua Quality Monitor:** A college-developed ESP32 hardware project that monitors water quality in real-time.
-* **🤝 Mentorship:** Currently guiding 6+ interns through the fundamentals of Git, HTML, and CSS.
+* **🤝 Mentorship:** Currently guiding 6+ interns through the fundamentals of Git, Nextjs, and React.
 
 ---
 
